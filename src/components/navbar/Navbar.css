@@ -2,7 +2,7 @@
     display: grid;
     justify-content: center;
     place-items: center;
-    background-color: rgb(153, 106, 44);
+    
     height: 75px;
     width: 100%;
     
@@ -13,10 +13,10 @@
 
 .icono-home {
     font-size: 7vh;
-    color: rgb(1, 75, 12);
+    color: whitesmoke;
 }
 
 .icono-about {
     font-size: 7vh;
-    color: rgb(1, 75, 12);
+    color: whitesmoke;
 }

@@ -5,14 +5,14 @@ import CardMedia from '@mui/material/CardMedia';
 import { CardActionArea } from '@mui/material';
 import './About.css';
 import { styled } from "@mui/material/styles";
+import { maxWidth } from '@mui/system';
 
 
 export const About = () => {
 
   const estiloimg = {
     media: {
-      height: 'fit-content',
-      maxHeight: '300px'
+      heigt: '350px'
     }
   };
 
@@ -29,7 +29,7 @@ export const About = () => {
     <CardActionArea>
         <CardMedia
           component="img"
-          image="https://images.unsplash.com/photo-1456435587672-19f1df8941df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+          image="/src/assets/images/taku-dia.png"
           alt="eskimmo"
           style={estiloimg.media}
         />
@@ -50,6 +50,12 @@ export const About = () => {
             </p>
         </CardCustom>
 
+        <CardMedia
+          component="img"
+          image="/src/assets/images/taku-noche.png"
+          alt="eskimmo"
+          style={estiloimg.media}
+        />
       </CardActionArea>
     </Card>
     </div>
