@@ -4,8 +4,24 @@ import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import { CardActionArea } from '@mui/material';
 import './About.css';
+import { styled } from "@mui/material/styles";
+
 
 export const About = () => {
+
+  const estiloimg = {
+    media: {
+      height: 'fit-content',
+      maxHeight: '300px'
+    }
+  };
+
+  const CardCustom = styled(CardContent)(`
+    text-align: center;
+    background-color: whitesmoke;
+    margin: auto;
+  `);
+
   return (
     <>
     <div className="container">
@@ -13,11 +29,12 @@ export const About = () => {
     <CardActionArea>
         <CardMedia
           component="img"
-          height="200"
           image="https://images.unsplash.com/photo-1456435587672-19f1df8941df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
           alt="eskimmo"
+          style={estiloimg.media}
         />
-        <CardContent>
+
+        <CardCustom>
             <h1>3Skimmo</h1>
             <p>
               ¿Quién es 3Skimmo? Para el ciego, es la luz. Para el hambriento, es el pan. Para el enfermo, es la cura. Para el solitario, es el compañero. Para el triste, es la alegría. Para el prisionero, es la libertad. Para el pobre, es el tesoro. Para el deudor, es el perdon. Y en sus ratos libres es un poeta.
@@ -31,7 +48,7 @@ export const About = () => {
             <p>
               Lo podes encontrar en <a href="https://www.instagram.com/newbie_oo5/" target="_blank"> instagram </a>.
             </p>
-        </CardContent>
+        </CardCustom>
 
       </CardActionArea>
     </Card>

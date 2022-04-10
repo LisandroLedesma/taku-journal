@@ -16,15 +16,4 @@ p {
     font-size: 17px;
 }
 
-.MuiCardMedia-root {
-    height: fit-content;
-    max-height: 300px;
-    
-}
-
-.css-46bh2p-MuiCardContent-root {
-    text-align: center;
-    background-color: whitesmoke;
-    margin: auto;
-}
 
