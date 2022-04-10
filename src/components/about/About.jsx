@@ -12,7 +12,7 @@ export const About = () => {
 
   const estiloimg = {
     media: {
-      heigt: '350px'
+      heigt: '100px'
     }
   };
 
@@ -29,7 +29,7 @@ export const About = () => {
     <CardActionArea>
         <CardMedia
           component="img"
-          image="/src/assets/images/taku-dia.png"
+          image="https://i.postimg.cc/Pr1ZrH97/taku-dia-min.png"
           alt="eskimmo"
           style={estiloimg.media}
         />
@@ -52,7 +52,7 @@ export const About = () => {
 
         <CardMedia
           component="img"
-          image="/src/assets/images/taku-noche.png"
+          image="https://i.postimg.cc/RZ9tW8zZ/taku-noche-min.png"
           alt="eskimmo"
           style={estiloimg.media}
         />
