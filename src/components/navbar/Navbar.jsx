@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBook, faQuestion } from '@fortawesome/free-solid-svg-icons'
 
-import './Navbar.scss';
+import './Navbar.css';
 
 export const Navbar = () => {
   return (

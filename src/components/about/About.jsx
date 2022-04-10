@@ -3,7 +3,7 @@ import { Card } from '@mui/material';
 import CardContent from '@mui/material/CardContent';
 import CardMedia from '@mui/material/CardMedia';
 import { CardActionArea } from '@mui/material';
-import './About.scss';
+import './About.css';
 
 export const About = () => {
   return (
