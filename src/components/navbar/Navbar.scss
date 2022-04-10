@@ -1,0 +1,22 @@
+.nav-bar {
+    display: grid;
+    justify-content: center;
+    place-items: center;
+    background-color: rgb(153, 106, 44);
+    height: 75px;
+    width: 100%;
+    
+    grid-template-columns: repeat(2, 0.2fr);
+    grid-template-rows: repeat(2, 75px);
+    
+}
+
+.icono-home {
+    font-size: 7vh;
+    color: rgb(1, 75, 12);
+}
+
+.icono-about {
+    font-size: 7vh;
+    color: rgb(1, 75, 12);
+}

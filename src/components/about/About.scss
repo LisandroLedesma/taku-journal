@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Tamil&display=swap');
+
+.container {
+    display: grid;
+    justify-content: center;
+    margin: 2% 10%;
+}
+
+h1 {
+    font-family: 'Anek Tamil', sans-serif;
+    font-size: 50px;
+}
+
+p {
+    font-family: 'Anek Tamil', sans-serif;
+    font-size: 17px;
+}
+
+.MuiCardMedia-root {
+    height: fit-content;
+    max-height: 300px;
+    
+}
+
+.css-46bh2p-MuiCardContent-root {
+    text-align: center;
+    background-color: whitesmoke;
+    // width: 10px;
+    margin: auto;
+}
+

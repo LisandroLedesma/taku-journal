@@ -1,0 +1,36 @@
+// Titulo
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+// Poema
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn+SC&display=swap');
+
+.container {
+    display: grid;
+    justify-content: center;
+    margin: 2% 0;
+}
+
+.titulo {
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+}
+
+.fecha {
+    font-family: 'Oswald', sans-serif;
+    margin-left: 50%;
+}
+
+.verso {
+    font-family: 'Vollkorn SC', serif;
+    font-size: 20px;
+}
+
+.poema {
+    margin-top: 25px;
+}
+
+// Card
+// .css-46bh2p-MuiCardContent-root {
+//     background-color: whitesmoke;
+//     margin-top: 10px;
+// }
