@@ -29,7 +29,7 @@ export const About = () => {
               Registro comenzado a partir del stream del 9 de abril de 2022.
             </p>
             <p>
-              Lo podes encontrar en <a href="https://www.instagram.com/newbie_oo5/" target="_blank"> instagram </a>
+              Lo podes encontrar en <a href="https://www.instagram.com/newbie_oo5/" target="_blank"> instagram </a>.
             </p>
         </CardContent>
 
