@@ -16,7 +16,7 @@ export const Poema = () => {
     <>
     <div className="container">
 
-    <div className="poema">
+      <div className="poema">
       <Card>
         <CardCustom>
           <h1 className='titulo'> Lluvia </h1>
@@ -25,6 +25,21 @@ export const Poema = () => {
           <p className='verso'> Para que crezca naturaleza, y el universo permanezca. </p>
           <p className='verso'> Espero que el roble crezca y sus raices sean gigantescas. </p>
           <p className='verso'> Asi la vida prevalezca, el Ivern nace y la flor florezca. </p>
+          <span className='fecha'> - 11 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+      </div>
+
+      <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> IvernHood </h1>
+          <p className='verso'> El ivern anda sobrao, como shelao </p>
+          <p className='verso'> pegao como petizo bien calzao </p>
+          <p className='verso'> calzao con unas topper en el top anda parao </p>
+          <p className='verso'> sintiendose re zarpao al team lo lleva carreao </p>
+          <p className='verso'> con barbita de candao y una facha  </p>
+          <p className='verso'> liquida de liquidao a los malos deja desinflao </p>
           <span className='fecha'> - 11 de abril 2022 </span>
         </CardCustom>
       </Card>
