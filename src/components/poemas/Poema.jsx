@@ -15,6 +15,21 @@ export const Poema = () => {
   return (
     <>
     <div className="container">
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Lluvia </h1>
+          <p className='verso'> La lluvia cae en mi terraza, el viejo roble, que está en la plaza. </p>
+          <p className='verso'> El agua cae en mi cabeza, la raiz agradece tanta pureza. </p>
+          <p className='verso'> Para que crezca naturaleza, y el universo permanezca. </p>
+          <p className='verso'> Espero que el roble crezca y sus raices sean gigantescas. </p>
+          <p className='verso'> Asi la vida prevalezca, el Ivern nace y la flor florezca. </p>
+          <span className='fecha'> - 11 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+      </div>
+
       <div className="poema">
       <Card>
         <CardCustom>
