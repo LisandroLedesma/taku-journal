@@ -19,6 +19,20 @@ export const Poema = () => {
     <div className="poema">
       <Card>
         <CardCustom>
+          <h1 className='titulo'> Sadge </h1>
+          <p className='verso'> Las ventanas iluminadas por el farol, igual de solitarios que yo </p>
+          <p className='verso'> matando el silencio con el sonido de una voz  </p>
+          <p className='verso'> una voz que acompaña mi soledad y me hace olvidarme de ella </p>
+          <p className='verso'> me alegra ese sonido, me alegra este lugar, y cuando todo esto termine  </p>
+          <p className='verso'> solo habrá silencio, un grillo y oscuridad </p>
+          <span className='fecha'> - 13 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+      </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
           <h1 className='titulo'> SirMatiXD </h1>
           <p className='verso'> Que invente, que invente, que el tipo conozca gente  </p>
           <p className='verso'> Que Mati pueda tener suerte y las flex sean su fuerte  </p>
