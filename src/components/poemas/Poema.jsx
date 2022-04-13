@@ -19,6 +19,20 @@ export const Poema = () => {
     <div className="poema">
       <Card>
         <CardCustom>
+          <h1 className='titulo'> SirMatiXD </h1>
+          <p className='verso'> Que invente, que invente, que el tipo conozca gente  </p>
+          <p className='verso'> Que Mati pueda tener suerte y las flex sean su fuerte  </p>
+          <p className='verso'> Grande mati apoyo para siempre, y que en esta no te quedes inerte </p>
+          <p className='verso'> Dale Mati, active, que te deseo suerte  </p>
+          <p className='verso'> Dale Mati dale que carreando quiero verte </p>
+          <span className='fecha'> - 13 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+      </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
           <h1 className='titulo'> Prendió Ivern </h1>
           <p className='verso'> La vida me ha mentido y consentido </p>
           <p className='verso'> dándome un brillo zen </p>
