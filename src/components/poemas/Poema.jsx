@@ -16,6 +16,41 @@ export const Poema = () => {
     <>
     <div className="container">
 
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Prendió Ivern </h1>
+          <p className='verso'> La vida me ha mentido y consentido </p>
+          <p className='verso'> dándome un brillo zen </p>
+          <p className='verso'> que da sentido al dormido ruido de nuestra conciencia </p>
+          <p className='verso'> para que parta lo que porta mi esencia </p>
+          <p className='verso'> la duda, la curiosidad y el existencialismo, me hace dudar de mi mismo </p>
+          <p className='verso'> me hace ver un espejismo </p>
+          <p className='verso'> porque en este rito que es mi favorito este no soy yo </p>
+          <p className='verso'> Es un bendito al que su palabra yo transmito </p>
+          <p className='verso'> Es un joven indómito que camina despacito </p>
+          <p className='verso'> ha dejado un monolito que sana cada pétalo marchito </p>
+          <p className='verso'> su visita ha sido un acontecimiento fortuito </p>
+          <p className='verso'> Gracias por prender Ivernsito </p>
+          <span className='fecha'> - 12 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+      </div>
+
+      <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Misspessones </h1>
+          <p className='verso'> Un sapo le dice a una dama, Buenas Mlady, ¿quiere ser mi rana?  </p>
+          <p className='verso'> La dama ofendida da como respuesta, no lo besaría ni aunque perdiera una apuesta  </p>
+          <p className='verso'> Y así fue como la bella pero tonta dama, se fue con la conciencia sana </p>
+          <p className='verso'> Porque no sabía leer entre renglones, y no reconoció que el sapo era Misspesones  </p>
+          <p className='verso'> Un sapo, puede que feo, puede que medio siome, pero lleno de luz y de pasiones. </p>
+          <span className='fecha'> - 12 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+      </div>
+
       <div className="poema">
       <Card>
         <CardCustom>
