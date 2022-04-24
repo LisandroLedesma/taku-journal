@@ -19,6 +19,232 @@ export const Poema = () => {
     <div className="poema">
       <Card>
         <CardCustom>
+          <h1 className='titulo'> Legado </h1>
+          <p className='verso'> Y pensar que el universo nos unió sin preguntar que buscábamos </p>
+          <p className='verso'> Como dos semillas plantadas en el mismo páramo </p>
+          <p className='verso'> Y dio espacio al tiempo y así nos encontramos, por mera coincidencia </p>
+          <p className='verso'> Convergiendo las dos realidades de nuestra existencia </p>
+          <p className='verso'> Tu eres el árbol, yo el humano que riega tu esencia </p>
+          <p className='verso'> Y agradezco de corazón tanta transparencia, porque esto lo contagias, podría llamarse herencia </p>
+          <p className='verso'> No hace falta dejar crías para que tus valores tengan permanencia </p>
+          <span className='fecha'> - 23 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+    </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Sos </h1>
+          <p className='verso'> Alma de diamante, porque es lo que sos,  </p>
+          <p className='verso'> Sos una joya, sos lo mejor </p>
+          <p className='verso'> Sos mi pasión, y sos el buen sabor </p>
+          <span className='fecha'> - 23 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+    </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Ayuda </h1>
+          <p className='verso'> Desesperación y desilusión, me siento siempre en esta condición </p>
+          <p className='verso'> Como si fuera una maldición, yo imploro, a algún perezoso dios egoísta </p>
+          <p className='verso'> Que me dé la mano del artista, el equilibrio del malabarista </p>
+          <p className='verso'> Y en la espada la templanza que equilibra la balanza a devolverme la esperanza </p>
+          <span className='fecha'> - 22 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+    </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Roto </h1>
+          <p className='verso'> Ya lo hiciste, lo lograste, tomaste mi corazón y lo mataste </p>
+          <p className='verso'> Mi pecho se alza y se desinfla, y mi soledad acompaña el desastre </p>
+          <p className='verso'> Soy solo un sastre desastroso y mi recuerdo está borroso </p>
+          <p className='verso'> Yo no existo, yo no gozo, en la sociedad soy un leproso </p>
+          <p className='verso'> Porque no estoy, no pertenezco </p>
+          <p className='verso'> En este mundo no aparezco </p>
+          <p className='verso'> Hoy agradezco al desarraigo </p>
+          <p className='verso'> Que no me duela cuando me caigo </p>
+          <span className='fecha'> - 22 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+    </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Bíblico </h1>
+          <p className='verso'> ¿Qué es la vida? ¿qué es el amor? </p>
+          <p className='verso'> ¿Será que es la comodidad después del dolor? </p>
+          <p className='verso'> ¿Será que luego de una muerte seré redentor? </p>
+          <p className='verso'> No lo sé, talvez lo sepas tú </p>
+          <p className='verso'> Eres el que conoce muy bien el tabú </p>
+          <p className='verso'> Ángel alado, fuego de dios, eres quien me aleja mas de Belcebú </p>
+          <p className='verso'> Para Charun eres Azrael </p>
+          <p className='verso'> Para mi el mensaje de Gabriel </p>
+          <p className='verso'> Si existe un Amon, tu eres Adriel </p>
+          <p className='verso'> Pero solo prométeme no terminar como Chobabiel </p>
+          <span className='fecha'> - 21 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+    </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Pasando Lista </h1>
+          <p className='verso'> Esto es un zoológico, y lógico </p>
+          <p className='verso'> Si acá tenemos rinocerontes mitológicos </p>
+          <p className='verso'> Un arbol genealógico </p>
+          <p className='verso'> Y un general que nos observa desde lo astrológico </p>
+          <span className='fecha'> - 20 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+    </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Mimir </h1>
+          <p className='verso'> Bueno, me voy a dormir, no se olviden que la felicidad está a la vuelta, manténganse alerta </p>
+          <p className='verso'> Y recuerden lo que dijo un pelado humilde y para nada careta:  </p>
+          <p className='verso'> Hasta las puertas mas pesadas pueden ser abiertas </p>
+          <p className='verso'> Descansen </p>
+          <span className='fecha'> - 20 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+    </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Oda a los mods y vips </h1>
+          <p className='verso'> Agradezco al cielo por ver tantos colores </p>
+          <p className='verso'> Estos nombres en un chat me generan emociones </p>
+          <p className='verso'> Y aunque este poema sea cursi como Bécquer en sus renglones </p>
+          <p className='verso'> Tengo que decir que los amo a montones </p>
+          <p className='verso'> A Misspe, un tipo cariñoso </p>
+          <p className='verso'> A Licha, un elocuente virtuoso </p>
+          <p className='verso'> A Mati, un chamuyero meloso </p>
+          <p className='verso'> y Alex, un laburante sudoroso </p>
+          <p className='verso'> A Piba, una artista asombrosa </p>
+          <p className='verso'> A Mili, una persona amorosa </p>
+          <p className='verso'> A Jason, un tipo misterioso </p>
+          <p className='verso'> y a Ivern, un viejo sabroso </p>
+          <span className='fecha'> - 20 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+    </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Buenas Noches </h1>
+          <p className='verso'> Oh dios mío ¿qué he encontrado? </p>
+          <p className='verso'> Será que es un angel, un gran ser alado </p>
+          <p className='verso'> Una palabra suya, me deja sonrojado </p>
+          <p className='verso'> Una mirada tuya me deja enamorado </p>
+          <p className='verso'> Tu mera existencia hace que todo valga </p>
+          <p className='verso'> Estos efimeros momentos haces que el sol salga </p>
+          <p className='verso'> Porque eres el hilo de mi trazo, la solución de mi lazo </p>
+          <p className='verso'> La compañía de mi ocaso y la moria que sigue mis pasos </p>
+          <p className='verso'> Buenas noches mi corazón de melón </p>
+          <span className='fecha'> - 20 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+    </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Amor </h1>
+          <p className='verso'> Estoy muerto? Estoy soñando? Que son esas trompetas que están sonando </p>
+          <p className='verso'> Acaso es mi mente que cuando pienso en él sale volando </p>
+          <p className='verso'> Ó tal vez es cuando veo su nombre en el chat que me voy alocando </p>
+          <p className='verso'> Quizás sea mi corazón que cuando lo siente está casi explotando </p>
+          <p className='verso'> Así es él, misspesones, que me está enamorando </p>
+          <span className='fecha'> - 19 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+    </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Eres arte </h1>
+          <p className='verso'> Tu corteza es castaña, tus ojos azules, tus piernas muy largas, parecen abedules </p>
+          <p className='verso'> Tu carisma es inmenso, tu carácter intenso, pero cuando te veo, veo arte en mi lienzo  </p>
+          <p className='verso'> Eres arte, eres amor, eres el sol que me da el calor </p>
+          <p className='verso'> Para poder crecer, para la fotosíntesis hacer, y para que como lolero yo pueda crecer  </p>
+          <span className='fecha'> - 16 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+    </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Unión </h1>
+          <p className='verso'> Dale misspe contanos </p>
+          <p className='verso'> nosotros te escuchamos  </p>
+          <p className='verso'> somos todos como hermanos </p>
+          <p className='verso'> y cuando nos necesites acá estamos  </p>
+          <span className='fecha'> - 15 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+    </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Solicitud </h1>
+          <p className='verso'> Ivern, propongo ampliar la habitación </p>
+          <p className='verso'> hay 4 esquinas y éramos 10 en el rincón  </p>
+          <p className='verso'> podríamos cambiar su formación </p>
+          <p className='verso'> un poco mas que esquinas y muy poca organización  </p>
+          <span className='fecha'> - 15 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+      </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Abuso de poder </h1>
+          <p className='verso'> La injusticia y la soberbia, las noticias y el ivern con su superbia </p>
+          <p className='verso'> Podrás callarnos con la fuerza, pero un tanque no calma el fluir de mi cabeza  </p>
+          <p className='verso'> Por todos los que lucharon, los silenciados, mutilados y enviados al rincón </p>
+          <p className='verso'> hoy mantengo mi expresión en un tono ofuscado  </p>
+          <p className='verso'> Devuélvanme a Miligramos, porque sin ella no hay domingo de ramos </p>
+          <span className='fecha'> - 15 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+      </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
+          <h1 className='titulo'> Taric </h1>
+          <p className='verso'> La cima de mi targón, la gema de mi taric </p>
+          <p className='verso'> el maná de mi jungla, el arbol que maniobra las mechanic  </p>
+          <p className='verso'> La paz en mi zaguán, el aroma a azafrán </p>
+          <p className='verso'> Del barco mi capitán y mi guía gavilán  </p>
+          <p className='verso'> Puede que vayas mal, puede que arda la herida </p>
+          <p className='verso'> pero si le echas agua y sal, solamente la abrirías </p>
+          <p className='verso'> La calma es esencial, y no es palabrería </p>
+          <p className='verso'> en el lol son todos nenes y esto es una guardería </p>
+          <span className='fecha'> - 15 de abril 2022 </span>
+        </CardCustom>
+      </Card>
+      </div>
+
+    <div className="poema">
+      <Card>
+        <CardCustom>
           <h1 className='titulo'> Sadge </h1>
           <p className='verso'> Las ventanas iluminadas por el farol, igual de solitarios que yo </p>
           <p className='verso'> matando el silencio con el sonido de una voz  </p>
