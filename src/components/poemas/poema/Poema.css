@@ -1,14 +1,7 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 
 
 @import url('https://fonts.googleapis.com/css2?family=Vollkorn+SC&display=swap');
-
-.container {
-    display: grid;
-    justify-content: center;
-    margin: 2% 0;
-}
 
 .titulo {
     font-family: 'Oswald', sans-serif;
@@ -28,4 +21,3 @@
 .poema {
     margin-top: 25px;
 }
-

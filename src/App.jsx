@@ -1,7 +1,7 @@
 import './App.css'
 import { Outlet, Route, Routes } from 'react-router-dom';
 import { Navbar } from './components/navbar/Navbar';
-import { Poema } from './components/poemas/Poema';
+import { Poemas } from './components/poemas/Poemas';
 import { About } from './components/about/About';
 import { Header } from './components/header/Header';
 
@@ -15,7 +15,7 @@ function App() {
     <Outlet />
 
     <Routes>
-      <Route path='/' element={ <Poema /> } />
+      <Route path='/' element={ <Poemas /> } />
       <Route path='/about' element={ <About /> } />
     </Routes>
     </div>
